@@ -1,0 +1,22 @@
+body{
+  background:#b8dafc;
+}
+
+.container{
+  background: whitesmoke;
+  padding: 130px;
+  width: 70%;
+  margin: auto;
+  margin-top: 90px;
+  text-align: center;
+  color: gray;
+}
+
+h3, input, button{
+  margin-bottom: 10px; 
+}
+
+input{
+  padding: 5px 150px 5px 0;
+
+}
